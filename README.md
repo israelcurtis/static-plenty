@@ -1,0 +1,2 @@
+# static-plenty
+plenty.org
