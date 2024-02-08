@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin, Author at Plenty International</title>
+	<atom:link href="/author/plenty/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/plenty/</link>
+	<description>Because in all fairness, there is enough...</description>
+	<lastBuildDate>Wed, 10 Sep 2014 19:56:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Super Typhoon Haiyan Relief Efforts</title>
+		<link>/super-typhoon-haiyan-relief-efforts/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2014 19:10:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://plentyorg.local/?p=1985</guid>
+
+					<description><![CDATA[<p>Super Typhoon Haiyan struck the Philippines with massive force. Relief efforts are needed on a massive, long-term scale. Plenty is being asked to help the village of Alta Vista on the island of Leyte, which is home to about 1,500 people. Every house in the area lost their roof and/or sustained other damage. Alta Vista Elementary [&#8230;]</p>
+<p>The post <a href="/super-typhoon-haiyan-relief-efforts/">Super Typhoon Haiyan Relief Efforts</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><strong>Super Typhoon Haiyan</strong> struck the Philippines with massive force. Relief efforts are needed on a massive, long-term scale. Plenty is being asked to help the village of Alta Vista on the island of Leyte, which is home to about 1,500 people. Every house in the area lost their roof and/or sustained other damage. Alta Vista Elementary School, with 280 students and the preschool/daycare with 45 students, lost its roof, desks, books and supplies. Other schools in the area are in similar shape and need help.</p>
+<p>DONATIONS ARE NEEDED NOW TO AID THESE COMMUNITY SCHOOLS</p>
+<p>We will aid as many schools as we can, depending upon the amount of donations we receive. <div class="alert alert-success">This is an opportunity to help in a very specific and personal way to help this community get back on their feet!</div></p>
+<p>The post <a href="/super-typhoon-haiyan-relief-efforts/">Super Typhoon Haiyan Relief Efforts</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
