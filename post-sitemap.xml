@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/?page_id=50</loc>
-		<lastmod>2023-06-01T17:37:24+00:00</lastmod>
+		<lastmod>2024-10-09T02:22:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/plenty-update/</loc>
@@ -931,6 +931,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/39-1-cover-letter.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/plenty-in-asheville-aiding-hurricane-helene-relief/</loc>
+		<lastmod>2024-10-09T02:22:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Evan-Stern-holds-one-of-his-children.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Morganton_flooding_Helene-2048x1536-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

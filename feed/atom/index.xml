@@ -1,37 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="en-US"
 	>
+	<title type="text">Plenty International</title>
+	<subtitle type="text">Because in all fairness, there is enough...</subtitle>
 
-<channel>
-	<title>Plenty International</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Because in all fairness, there is enough...</description>
-	<lastBuildDate>Wed, 09 Oct 2024 02:22:41 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
-	<item>
-		<title>In Asheville aiding Hurricane Helene relief</title>
-		<link>/plenty-in-asheville-aiding-hurricane-helene-relief/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 09 Oct 2024 02:13:52 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2660</guid>
+	<updated>2024-10-09T02:22:41Z</updated>
 
-					<description><![CDATA[<p>In the wake of the devastating Hurricane Helene, Plenty International has stepped up to provide critical support to underserved communities in Western North Carolina by delivering grey water for non-potable uses.</p>
+	<link rel="alternate" type="text/html" href="/" />
+	<id>/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="/feed/atom/" />
+
+	<generator uri="https://wordpress.org/" version="6.6.2">WordPress</generator>
+	<entry>
+		<author>
+			<name>admin</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[In Asheville aiding Hurricane Helene relief]]></title>
+		<link rel="alternate" type="text/html" href="/plenty-in-asheville-aiding-hurricane-helene-relief/" />
+
+		<id>/?p=2660</id>
+		<updated>2024-10-09T02:22:41Z</updated>
+		<published>2024-10-09T02:13:52Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>In the wake of the devastating Hurricane Helene, Plenty International has stepped up to provide critical support to underserved communities in Western North Carolina by delivering grey water for non-potable uses.</p>
 <p>The post <a href="/plenty-in-asheville-aiding-hurricane-helene-relief/">In Asheville aiding Hurricane Helene relief</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+]]></summary>
+
+					<content type="html" xml:base="/plenty-in-asheville-aiding-hurricane-helene-relief/"><![CDATA[<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="459" height="600" data-id="2662" src="/wp-content/uploads/2024/10/Evan-Stern-holds-one-of-his-children-459x600.jpeg" alt="" class="wp-image-2662" srcset="/wp-content/uploads/2024/10/Evan-Stern-holds-one-of-his-children-459x600.jpeg 459w, /wp-content/uploads/2024/10/Evan-Stern-holds-one-of-his-children-229x300.jpeg 229w, /wp-content/uploads/2024/10/Evan-Stern-holds-one-of-his-children-768x1004.jpeg 768w, /wp-content/uploads/2024/10/Evan-Stern-holds-one-of-his-children-800x1046.jpeg 800w, /wp-content/uploads/2024/10/Evan-Stern-holds-one-of-his-children-500x654.jpeg 500w, /wp-content/uploads/2024/10/Evan-Stern-holds-one-of-his-children.jpeg 1147w" sizes="(max-width: 459px) 100vw, 459px" /><figcaption class="wp-element-caption">Evan Stern lives outside Asheville</figcaption></figure>
 <figure class="wp-block-image size-large"><img decoding="async" width="800" height="600" data-id="2663" src="/wp-content/uploads/2024/10/Morganton_flooding_Helene-2048x1536-1-800x600.jpg" alt="" class="wp-image-2663" srcset="/wp-content/uploads/2024/10/Morganton_flooding_Helene-2048x1536-1-800x600.jpg 800w, /wp-content/uploads/2024/10/Morganton_flooding_Helene-2048x1536-1-300x225.jpg 300w, /wp-content/uploads/2024/10/Morganton_flooding_Helene-2048x1536-1-768x576.jpg 768w, /wp-content/uploads/2024/10/Morganton_flooding_Helene-2048x1536-1-1536x1152.jpg 1536w, /wp-content/uploads/2024/10/Morganton_flooding_Helene-2048x1536-1-1200x900.jpg 1200w, /wp-content/uploads/2024/10/Morganton_flooding_Helene-2048x1536-1-500x375.jpg 500w, /wp-content/uploads/2024/10/Morganton_flooding_Helene-2048x1536-1.jpg 1600w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Flooding along Highway 70 near Silver Creek in Burke County after Helene. <em>Photo by NC DOT</em></figcaption></figure>
 </figure>
@@ -50,23 +49,25 @@
 <p>Or <a href="mailto:peter@plenty.org">peter@plenty.org</a>, phone <a href="tel:9319644323">(931) 964-4323</a>.</p>
 <p><em>Plenty was founded by an intentional community called the Farm in rural Tennessee in 1974. Since that time, it has supported projects related to disaster relief, primary health care, nutrition, agriculture and water in 22 countries.</em></p>
 <p>The post <a href="/plenty-in-asheville-aiding-hurricane-helene-relief/">In Asheville aiding Hurricane Helene relief</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>Plenty Bulletin Spring/Summer 2023</title>
-		<link>/plenty-bulletin-fall-and-winter-2022-23/</link>
-		
-		<dc:creator><![CDATA[Peter Schweitzer]]></dc:creator>
-		<pubDate>Thu, 01 Jun 2023 17:24:16 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2587</guid>
+			</entry>
+		<entry>
+		<author>
+			<name>Peter Schweitzer</name>
+					</author>
 
-					<description><![CDATA[<p>The post <a href="/plenty-bulletin-fall-and-winter-2022-23/">Plenty Bulletin Spring/Summer 2023</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p></p>
+		<title type="html"><![CDATA[Plenty Bulletin Spring/Summer 2023]]></title>
+		<link rel="alternate" type="text/html" href="/plenty-bulletin-fall-and-winter-2022-23/" />
+
+		<id>/?p=2587</id>
+		<updated>2023-06-01T17:37:24Z</updated>
+		<published>2023-06-01T17:24:16Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>The post <a href="/plenty-bulletin-fall-and-winter-2022-23/">Plenty Bulletin Spring/Summer 2023</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/plenty-bulletin-fall-and-winter-2022-23/"><![CDATA[<p></p>
 <h2 class="has-small-font-size wp-block-heading"></h2>
 <p></p>
 <p></p>
@@ -97,23 +98,25 @@
 <p></figure>
 <p></p>
 <p>The post <a href="/plenty-bulletin-fall-and-winter-2022-23/">Plenty Bulletin Spring/Summer 2023</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>Plenty Bulletin Spring/Summer 2022</title>
-		<link>/2556-2/</link>
-		
-		<dc:creator><![CDATA[Ginger Lee]]></dc:creator>
-		<pubDate>Wed, 24 Aug 2022 22:06:02 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://plentyorg.local/?p=2556</guid>
+			</entry>
+		<entry>
+		<author>
+			<name>Ginger Lee</name>
+					</author>
 
-					<description><![CDATA[<p>The post <a href="/2556-2/">Plenty Bulletin Spring/Summer 2022</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p></p>
+		<title type="html"><![CDATA[Plenty Bulletin Spring/Summer 2022]]></title>
+		<link rel="alternate" type="text/html" href="/2556-2/" />
+
+		<id>https://plentyorg.local/?p=2556</id>
+		<updated>2022-08-24T23:16:24Z</updated>
+		<published>2022-08-24T22:06:02Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>The post <a href="/2556-2/">Plenty Bulletin Spring/Summer 2022</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/2556-2/"><![CDATA[<p></p>
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="463" height="600" src="/wp-content/uploads/2022/08/Plenty_Bulletin_38-11024_11-463x600.jpg" alt="" class="wp-image-2562" srcset="/wp-content/uploads/2022/08/Plenty_Bulletin_38-11024_11-463x600.jpg 463w, /wp-content/uploads/2022/08/Plenty_Bulletin_38-11024_11-232x300.jpg 232w, /wp-content/uploads/2022/08/Plenty_Bulletin_38-11024_11-768x994.jpg 768w, /wp-content/uploads/2022/08/Plenty_Bulletin_38-11024_11-500x647.jpg 500w, /wp-content/uploads/2022/08/Plenty_Bulletin_38-11024_11.jpg 791w" sizes="(max-width: 463px) 100vw, 463px" /></figure>
 <p></p>
 <p></p>
@@ -129,23 +132,25 @@
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="464" height="600" src="/wp-content/uploads/2022/08/38-1-letter-1-464x600.jpg" alt="" class="wp-image-2567" srcset="/wp-content/uploads/2022/08/38-1-letter-1-464x600.jpg 464w, /wp-content/uploads/2022/08/38-1-letter-1-232x300.jpg 232w, /wp-content/uploads/2022/08/38-1-letter-1-768x994.jpg 768w, /wp-content/uploads/2022/08/38-1-letter-1-1187x1536.jpg 1187w, /wp-content/uploads/2022/08/38-1-letter-1-1200x1553.jpg 1200w, /wp-content/uploads/2022/08/38-1-letter-1-800x1036.jpg 800w, /wp-content/uploads/2022/08/38-1-letter-1-500x647.jpg 500w, /wp-content/uploads/2022/08/38-1-letter-1.jpg 1236w" sizes="(max-width: 464px) 100vw, 464px" /></figure>
 <p></p>
 <p>The post <a href="/2556-2/">Plenty Bulletin Spring/Summer 2022</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>Plenty Bulletin Fall/Winter 2021-22</title>
-		<link>/plenty-bulletin-fall-winter-2021-22/</link>
-		
-		<dc:creator><![CDATA[Peter Schweitzer]]></dc:creator>
-		<pubDate>Sat, 23 Apr 2022 20:34:58 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://plentyorg.local/?p=2545</guid>
+			</entry>
+		<entry>
+		<author>
+			<name>Peter Schweitzer</name>
+					</author>
 
-					<description><![CDATA[<p>The post <a href="/plenty-bulletin-fall-winter-2021-22/">Plenty Bulletin Fall/Winter 2021-22</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p></p>
+		<title type="html"><![CDATA[Plenty Bulletin Fall/Winter 2021-22]]></title>
+		<link rel="alternate" type="text/html" href="/plenty-bulletin-fall-winter-2021-22/" />
+
+		<id>https://plentyorg.local/?p=2545</id>
+		<updated>2022-04-23T20:35:00Z</updated>
+		<published>2022-04-23T20:34:58Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>The post <a href="/plenty-bulletin-fall-winter-2021-22/">Plenty Bulletin Fall/Winter 2021-22</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/plenty-bulletin-fall-winter-2021-22/"><![CDATA[<p></p>
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="464" height="600" src="/wp-content/uploads/2022/04/37-2-Plenty-Bulletin-final-web-clr-464x600.jpg" alt="" class="wp-image-2546" srcset="/wp-content/uploads/2022/04/37-2-Plenty-Bulletin-final-web-clr-464x600.jpg 464w, /wp-content/uploads/2022/04/37-2-Plenty-Bulletin-final-web-clr-232x300.jpg 232w, /wp-content/uploads/2022/04/37-2-Plenty-Bulletin-final-web-clr-768x994.jpg 768w, /wp-content/uploads/2022/04/37-2-Plenty-Bulletin-final-web-clr-1187x1536.jpg 1187w, /wp-content/uploads/2022/04/37-2-Plenty-Bulletin-final-web-clr-1200x1553.jpg 1200w, /wp-content/uploads/2022/04/37-2-Plenty-Bulletin-final-web-clr-800x1036.jpg 800w, /wp-content/uploads/2022/04/37-2-Plenty-Bulletin-final-web-clr-500x647.jpg 500w, /wp-content/uploads/2022/04/37-2-Plenty-Bulletin-final-web-clr.jpg 1236w" sizes="(max-width: 464px) 100vw, 464px" /></figure>
 <p></p>
 <p></p>
@@ -161,23 +166,25 @@
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="464" height="600" src="/wp-content/uploads/2022/04/37-2-Plenty-cover-letter-final-jpeg-464x600.jpg" alt="" class="wp-image-2550" srcset="/wp-content/uploads/2022/04/37-2-Plenty-cover-letter-final-jpeg-464x600.jpg 464w, /wp-content/uploads/2022/04/37-2-Plenty-cover-letter-final-jpeg-232x300.jpg 232w, /wp-content/uploads/2022/04/37-2-Plenty-cover-letter-final-jpeg-768x994.jpg 768w, /wp-content/uploads/2022/04/37-2-Plenty-cover-letter-final-jpeg-1187x1536.jpg 1187w, /wp-content/uploads/2022/04/37-2-Plenty-cover-letter-final-jpeg-1200x1553.jpg 1200w, /wp-content/uploads/2022/04/37-2-Plenty-cover-letter-final-jpeg-800x1036.jpg 800w, /wp-content/uploads/2022/04/37-2-Plenty-cover-letter-final-jpeg-500x647.jpg 500w, /wp-content/uploads/2022/04/37-2-Plenty-cover-letter-final-jpeg.jpg 1236w" sizes="(max-width: 464px) 100vw, 464px" /></figure>
 <p></p>
 <p>The post <a href="/plenty-bulletin-fall-winter-2021-22/">Plenty Bulletin Fall/Winter 2021-22</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>Plenty Bulletin Spring/Summer 2021</title>
-		<link>/plenty-bulletin-spring-summer-2021/</link>
-		
-		<dc:creator><![CDATA[Peter Schweitzer]]></dc:creator>
-		<pubDate>Sat, 23 Apr 2022 20:31:22 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://plentyorg.local/?p=2538</guid>
+			</entry>
+		<entry>
+		<author>
+			<name>Peter Schweitzer</name>
+					</author>
 
-					<description><![CDATA[<p>The post <a href="/plenty-bulletin-spring-summer-2021/">Plenty Bulletin Spring/Summer 2021</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p></p>
+		<title type="html"><![CDATA[Plenty Bulletin Spring/Summer 2021]]></title>
+		<link rel="alternate" type="text/html" href="/plenty-bulletin-spring-summer-2021/" />
+
+		<id>https://plentyorg.local/?p=2538</id>
+		<updated>2022-04-23T20:31:24Z</updated>
+		<published>2022-04-23T20:31:22Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>The post <a href="/plenty-bulletin-spring-summer-2021/">Plenty Bulletin Spring/Summer 2021</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/plenty-bulletin-spring-summer-2021/"><![CDATA[<p></p>
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="464" height="600" src="/wp-content/uploads/2022/04/37-1-Plenty-Bulletin-final-clr-464x600.jpg" alt="" class="wp-image-2540" srcset="/wp-content/uploads/2022/04/37-1-Plenty-Bulletin-final-clr-464x600.jpg 464w, /wp-content/uploads/2022/04/37-1-Plenty-Bulletin-final-clr-232x300.jpg 232w, /wp-content/uploads/2022/04/37-1-Plenty-Bulletin-final-clr-768x994.jpg 768w, /wp-content/uploads/2022/04/37-1-Plenty-Bulletin-final-clr-1187x1536.jpg 1187w, /wp-content/uploads/2022/04/37-1-Plenty-Bulletin-final-clr-1200x1553.jpg 1200w, /wp-content/uploads/2022/04/37-1-Plenty-Bulletin-final-clr-800x1036.jpg 800w, /wp-content/uploads/2022/04/37-1-Plenty-Bulletin-final-clr-500x647.jpg 500w, /wp-content/uploads/2022/04/37-1-Plenty-Bulletin-final-clr.jpg 1236w" sizes="(max-width: 464px) 100vw, 464px" /></figure>
 <p></p>
 <p></p>
@@ -193,23 +200,25 @@
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="464" height="600" src="/wp-content/uploads/2022/04/37-1-cover-letter-final--464x600.jpg" alt="" class="wp-image-2544" srcset="/wp-content/uploads/2022/04/37-1-cover-letter-final--464x600.jpg 464w, /wp-content/uploads/2022/04/37-1-cover-letter-final--232x300.jpg 232w, /wp-content/uploads/2022/04/37-1-cover-letter-final--768x994.jpg 768w, /wp-content/uploads/2022/04/37-1-cover-letter-final--1187x1536.jpg 1187w, /wp-content/uploads/2022/04/37-1-cover-letter-final--1200x1553.jpg 1200w, /wp-content/uploads/2022/04/37-1-cover-letter-final--800x1036.jpg 800w, /wp-content/uploads/2022/04/37-1-cover-letter-final--500x647.jpg 500w, /wp-content/uploads/2022/04/37-1-cover-letter-final-.jpg 1236w" sizes="(max-width: 464px) 100vw, 464px" /></figure>
 <p></p>
 <p>The post <a href="/plenty-bulletin-spring-summer-2021/">Plenty Bulletin Spring/Summer 2021</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>Plenty Bulletin Fall/Winter 2020-21</title>
-		<link>/plenty-bulletin-fall-winter-2020-21/</link>
-		
-		<dc:creator><![CDATA[Ginger Lee]]></dc:creator>
-		<pubDate>Fri, 25 Dec 2020 01:15:00 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://plentyorg.local/?p=2570</guid>
+			</entry>
+		<entry>
+		<author>
+			<name>Ginger Lee</name>
+					</author>
 
-					<description><![CDATA[<p>The post <a href="/plenty-bulletin-fall-winter-2020-21/">Plenty Bulletin Fall/Winter 2020-21</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p></p>
+		<title type="html"><![CDATA[Plenty Bulletin Fall/Winter 2020-21]]></title>
+		<link rel="alternate" type="text/html" href="/plenty-bulletin-fall-winter-2020-21/" />
+
+		<id>https://plentyorg.local/?p=2570</id>
+		<updated>2022-08-25T00:16:06Z</updated>
+		<published>2020-12-25T01:15:00Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>The post <a href="/plenty-bulletin-fall-winter-2020-21/">Plenty Bulletin Fall/Winter 2020-21</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/plenty-bulletin-fall-winter-2020-21/"><![CDATA[<p></p>
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="464" height="600" src="/wp-content/uploads/2020/12/36-2-Plenty-Bulletin-web-1-464x600.jpg" alt="" class="wp-image-2509" srcset="/wp-content/uploads/2020/12/36-2-Plenty-Bulletin-web-1-464x600.jpg 464w, /wp-content/uploads/2020/12/36-2-Plenty-Bulletin-web-1-232x300.jpg 232w, /wp-content/uploads/2020/12/36-2-Plenty-Bulletin-web-1-768x994.jpg 768w, /wp-content/uploads/2020/12/36-2-Plenty-Bulletin-web-1-1187x1536.jpg 1187w, /wp-content/uploads/2020/12/36-2-Plenty-Bulletin-web-1-1200x1553.jpg 1200w, /wp-content/uploads/2020/12/36-2-Plenty-Bulletin-web-1-800x1036.jpg 800w, /wp-content/uploads/2020/12/36-2-Plenty-Bulletin-web-1-500x647.jpg 500w, /wp-content/uploads/2020/12/36-2-Plenty-Bulletin-web-1.jpg 1236w" sizes="(max-width: 464px) 100vw, 464px" /></figure>
 <p></p>
 <p></p>
@@ -225,24 +234,26 @@
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="464" height="600" src="/wp-content/uploads/2020/12/36-2-cover-letter-final-for-web-1-464x600.jpg" alt="" class="wp-image-2513" srcset="/wp-content/uploads/2020/12/36-2-cover-letter-final-for-web-1-464x600.jpg 464w, /wp-content/uploads/2020/12/36-2-cover-letter-final-for-web-1-232x300.jpg 232w, /wp-content/uploads/2020/12/36-2-cover-letter-final-for-web-1-768x994.jpg 768w, /wp-content/uploads/2020/12/36-2-cover-letter-final-for-web-1-1187x1536.jpg 1187w, /wp-content/uploads/2020/12/36-2-cover-letter-final-for-web-1-1200x1553.jpg 1200w, /wp-content/uploads/2020/12/36-2-cover-letter-final-for-web-1-800x1036.jpg 800w, /wp-content/uploads/2020/12/36-2-cover-letter-final-for-web-1-500x647.jpg 500w, /wp-content/uploads/2020/12/36-2-cover-letter-final-for-web-1.jpg 1236w" sizes="(max-width: 464px) 100vw, 464px" /></figure>
 <p></p>
 <p>The post <a href="/plenty-bulletin-fall-winter-2020-21/">Plenty Bulletin Fall/Winter 2020-21</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>Food for Mayan Families in Guatemala</title>
-		<link>/food-for-mayan-families-in-guatemala/</link>
-		
-		<dc:creator><![CDATA[Peter Schweitzer]]></dc:creator>
-		<pubDate>Sun, 06 Sep 2020 23:01:03 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://plentyorg.local/?p=2467</guid>
+			</entry>
+		<entry>
+		<author>
+			<name>Peter Schweitzer</name>
+					</author>
 
-					<description><![CDATA[<p>In the central highlands of Guatemala, Plenty is funding Asociacion Desarollo Integral de Belen (Association for the Integral Development of Belen) (ADIBE) to deliver needed food and supplies to Kaqchikel Maya families and especially elders in the community of Molino Belen in the Department of Solola. ADIBE began as the “soy dairy” Plenty helped build and [&#8230;]</p>
+		<title type="html"><![CDATA[Food for Mayan Families in Guatemala]]></title>
+		<link rel="alternate" type="text/html" href="/food-for-mayan-families-in-guatemala/" />
+
+		<id>https://plentyorg.local/?p=2467</id>
+		<updated>2020-09-06T23:01:06Z</updated>
+		<published>2020-09-06T23:01:03Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>In the central highlands of Guatemala, Plenty is funding Asociacion Desarollo Integral de Belen (Association for the Integral Development of Belen) (ADIBE) to deliver needed food and supplies to Kaqchikel Maya families and especially elders in the community of Molino Belen in the Department of Solola. ADIBE began as the “soy dairy” Plenty helped build and [&#8230;]</p>
 <p>The post <a href="/food-for-mayan-families-in-guatemala/">Food for Mayan Families in Guatemala</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p></p>
+]]></summary>
+
+					<content type="html" xml:base="/food-for-mayan-families-in-guatemala/"><![CDATA[<p></p>
 <p>In the central highlands of Guatemala, Plenty is funding Asociacion Desarollo Integral de Belen (Association for the Integral Development of Belen) (ADIBE) to deliver needed food and supplies to Kaqchikel Maya families and especially elders in the community of Molino Belen in the Department of Solola. ADIBE began as the “soy dairy” Plenty helped build and equip in 1979 as part of our response to the 1976 earthquake that devastated Guatemala killing over 22,000 and leaving over a million homeless.</p>
 <p></p>
 <p></p>
@@ -267,66 +278,69 @@
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="450" height="600" src="/wp-content/uploads/2020/09/elder-with-bag-450x600.jpg" alt="" class="wp-image-2462" srcset="/wp-content/uploads/2020/09/elder-with-bag-450x600.jpg 450w, /wp-content/uploads/2020/09/elder-with-bag-225x300.jpg 225w, /wp-content/uploads/2020/09/elder-with-bag-768x1024.jpg 768w, /wp-content/uploads/2020/09/elder-with-bag-940x1253.jpg 940w, /wp-content/uploads/2020/09/elder-with-bag-620x827.jpg 620w, /wp-content/uploads/2020/09/elder-with-bag-146x195.jpg 146w, /wp-content/uploads/2020/09/elder-with-bag.jpg 960w" sizes="(max-width: 450px) 100vw, 450px" /></figure>
 <p></p>
 <p>The post <a href="/food-for-mayan-families-in-guatemala/">Food for Mayan Families in Guatemala</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>The Roots of Plenty: Tales from the &#8220;hippie peace corps&#8221; available now!</title>
-		<link>/roots-plenty-tales-hippie-peace-corps/</link>
-		
-		<dc:creator><![CDATA[Peter Schweitzer]]></dc:creator>
-		<pubDate>Wed, 16 May 2018 19:35:15 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://plentyorg.local/?p=2316</guid>
+			</entry>
+		<entry>
+		<author>
+			<name>Peter Schweitzer</name>
+					</author>
 
-					<description><![CDATA[<p>The post <a href="/roots-plenty-tales-hippie-peace-corps/">The Roots of Plenty: Tales from the &#8220;hippie peace corps&#8221; available now!</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="size-medium wp-image-2253 aligncenter" src="/wp-content/uploads/2017/08/Roots-cover-cropped-233x300.jpg" alt="" width="233" height="300" srcset="/wp-content/uploads/2017/08/Roots-cover-cropped-233x300.jpg 233w, /wp-content/uploads/2017/08/Roots-cover-cropped-467x600.jpg 467w, /wp-content/uploads/2017/08/Roots-cover-cropped-152x195.jpg 152w, /wp-content/uploads/2017/08/Roots-cover-cropped.jpg 617w" sizes="(max-width: 233px) 100vw, 233px" /></p>
+		<title type="html"><![CDATA[The Roots of Plenty: Tales from the &#8220;hippie peace corps&#8221; available now!]]></title>
+		<link rel="alternate" type="text/html" href="/roots-plenty-tales-hippie-peace-corps/" />
+
+		<id>http://plentyorg.local/?p=2316</id>
+		<updated>2018-06-05T05:44:18Z</updated>
+		<published>2018-05-16T19:35:15Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>The post <a href="/roots-plenty-tales-hippie-peace-corps/">The Roots of Plenty: Tales from the &#8220;hippie peace corps&#8221; available now!</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/roots-plenty-tales-hippie-peace-corps/"><![CDATA[<p><img loading="lazy" decoding="async" class="size-medium wp-image-2253 aligncenter" src="/wp-content/uploads/2017/08/Roots-cover-cropped-233x300.jpg" alt="" width="233" height="300" srcset="/wp-content/uploads/2017/08/Roots-cover-cropped-233x300.jpg 233w, /wp-content/uploads/2017/08/Roots-cover-cropped-467x600.jpg 467w, /wp-content/uploads/2017/08/Roots-cover-cropped-152x195.jpg 152w, /wp-content/uploads/2017/08/Roots-cover-cropped.jpg 617w" sizes="(max-width: 233px) 100vw, 233px" /></p>
 <p>The post <a href="/roots-plenty-tales-hippie-peace-corps/">The Roots of Plenty: Tales from the &#8220;hippie peace corps&#8221; available now!</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>Kids To The Country Summer of 2017</title>
-		<link>/kids-country-summer-2017/</link>
-		
-		<dc:creator><![CDATA[Peter Schweitzer]]></dc:creator>
-		<pubDate>Wed, 16 May 2018 19:25:39 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://plentyorg.local/?p=2315</guid>
+			</entry>
+		<entry>
+		<author>
+			<name>Peter Schweitzer</name>
+					</author>
 
-					<description><![CDATA[<p>http://www.youtube.com/watch?v=vWJtz4j4naM</p>
-<p>The post <a href="/kids-country-summer-2017/">Kids To The Country Summer of 2017</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>http://www.youtube.com/watch?v=vWJtz4j4naM</p>
-<p>The post <a href="/kids-country-summer-2017/">Kids To The Country Summer of 2017</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>2016 Spring/Summer Plenty Bulletin</title>
-		<link>/2016-springsummer-plenty-bulletin-2/</link>
-		
-		<dc:creator><![CDATA[Peter Schweitzer]]></dc:creator>
-		<pubDate>Mon, 16 May 2016 19:08:46 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://plentyorg.local/?p=2145</guid>
+		<title type="html"><![CDATA[Kids To The Country Summer of 2017]]></title>
+		<link rel="alternate" type="text/html" href="/kids-country-summer-2017/" />
 
-					<description><![CDATA[<p>2016 SPRING:SUMMER BULLETIN</p>
-<p>The post <a href="/2016-springsummer-plenty-bulletin-2/">2016 Spring/Summer Plenty Bulletin</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><strong><a href="/wp-content/uploads/2016/05/2016-SPRINGSUMMER-BULLETIN.pdf" rel="">2016 SPRING:SUMMER BULLETIN</a></strong></p>
-<p>The post <a href="/2016-springsummer-plenty-bulletin-2/">2016 Spring/Summer Plenty Bulletin</a> appeared first on <a href="/">Plenty International</a>.</p>
-]]></content:encoded>
-					
+		<id>http://plentyorg.local/?p=2315</id>
+		<updated>2018-05-16T19:25:39Z</updated>
+		<published>2018-05-16T19:25:39Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>http://www.youtube.com/watch?v=vWJtz4j4naM</p>
+<p>The post <a href="/kids-country-summer-2017/">Kids To The Country Summer of 2017</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/kids-country-summer-2017/"><![CDATA[<p>http://www.youtube.com/watch?v=vWJtz4j4naM</p>
+<p>The post <a href="/kids-country-summer-2017/">Kids To The Country Summer of 2017</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></content>
 		
+			</entry>
+		<entry>
+		<author>
+			<name>Peter Schweitzer</name>
+					</author>
+
+		<title type="html"><![CDATA[2016 Spring/Summer Plenty Bulletin]]></title>
+		<link rel="alternate" type="text/html" href="/2016-springsummer-plenty-bulletin-2/" />
+
+		<id>http://plentyorg.local/?p=2145</id>
+		<updated>2016-05-16T19:13:22Z</updated>
+		<published>2016-05-16T19:08:46Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>2016 SPRING:SUMMER BULLETIN</p>
+<p>The post <a href="/2016-springsummer-plenty-bulletin-2/">2016 Spring/Summer Plenty Bulletin</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/2016-springsummer-plenty-bulletin-2/"><![CDATA[<p><strong><a href="/wp-content/uploads/2016/05/2016-SPRINGSUMMER-BULLETIN.pdf" rel="">2016 SPRING:SUMMER BULLETIN</a></strong></p>
+<p>The post <a href="/2016-springsummer-plenty-bulletin-2/">2016 Spring/Summer Plenty Bulletin</a> appeared first on <a href="/">Plenty International</a>.</p>
+]]></content>
 		
-			</item>
-	</channel>
-</rss>
+			</entry>
+	</feed>
